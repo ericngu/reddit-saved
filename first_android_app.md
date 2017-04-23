@@ -4,7 +4,7 @@ A year ago, almost to the day, I compiled a post of all the resources that would
  
 [Here is a link to the old post, in case you’re interested.](http://www.reddit.com/r/Android/comments/1w3woc/a_step_by_step_guide_about_how_to_get_started_and/)
  
-##There are two ways of approaching this post:
+## There are two ways of approaching this post:
 
 1.      Be at a computer, follow the explanations and instructions and you’ll have an app and some basic skills to branch off by the end of it.
 2.      Just read the post and learn some basic app skills.
