@@ -4,7 +4,7 @@ A year ago, almost to the day, I compiled a post of all the resources that would
  
 [Here is a link to the old post, in case you’re interested.](http://www.reddit.com/r/Android/comments/1w3woc/a_step_by_step_guide_about_how_to_get_started_and/)
  
-## There are two ways of approaching this post:
+### There are two ways of approaching this post:
 
 1.      Be at a computer, follow the explanations and instructions and you’ll have an app and some basic skills to branch off by the end of it.
 2.      Just read the post and learn some basic app skills.
@@ -69,15 +69,15 @@ If you are confused, don’t worry, once you have followed the instructions you�
 - [The syntax of Java](http://www.tutorialspoint.com/java/java_basic_syntax.htm)
  
  
-## How do you get started making an app? 
+### How do you get started making an app? 
  
 **Get Android Studio**
 
 Android Studio is the new (just out of beta) Android Integrated Development Environment, don’t let the words confuse you – it’s essentially a program that has all the tools you need to make an app. Some people come across some issues installing Android Studio make sure you are Googling any issues that you come across in this stage, but you should be fine.  You’ll come across many things you don’t understand when making apps but I guarantee you 1000 people have had the same problem before and there will be help or tutorials online (you shouldn’t need them for this exercise).
  
-# Instruction #1: [Download and install the Java JDK]( http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+#### Instruction #1: [Download and install the Java JDK]( http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
 
-# Instruction #2: [Download and install Android Studio, but don’t open it yet.]( https://developer.android.com/sdk/index.html)
+#### Instruction #2: [Download and install Android Studio, but don’t open it yet.]( https://developer.android.com/sdk/index.html)
  
 **Strings in Android**
 
@@ -94,26 +94,26 @@ This looks quite complex but it’s actually quite simple. For example the ‘la
  
  
  
-##### We are going to make a simple Quote app! It will show a quote plus the name of the person who made the quote and loop through as many quotes as you like when you tap the screen.
+#### We are going to make a simple Quote app! It will show a quote plus the name of the person who made the quote and loop through as many quotes as you like when you tap the screen.
 
 >
 
  
-# Instruction #3: Open Android Studio and click the create new project button.
+#### Instruction #3: Open Android Studio and click the create new project button.
 
  
-# Instruction #4: [Follow these screenshots exactly to set up the new project]( http://imgur.com/a/o7NdR)
+#### Instruction #4: [Follow these screenshots exactly to set up the new project]( http://imgur.com/a/o7NdR)
 
  
-# Instruction #5: [You should land on this page, if not, open the layouts folder and click the file inside it](http://imgur.com/JM4BIMV.png)
+#### Instruction #5: [You should land on this page, if not, open the layouts folder and click the file inside it](http://imgur.com/JM4BIMV.png)
 
  
-# Instruction #6:
+#### Instruction #6:
 The screen you are on now is the layout screen, if you click the design button towards the bottom you will be greeted with a drag and drop editor. For now replace all of the text in the text tab with this: http://pastebin.com/pRisAsPF
 
 This has formatted the layout of the main app Activity, but you can change some things around. Try changing the text from “Tap the screen to begin” to something else. Extra points to anyone who can change the font color.
  
-# Instruction #7:
+#### Instruction #7:
 Now we have to make a new class, and the quote Object we spoke about earlier. These screenshots show how to make a new class: http://imgur.com/a/3I7v9
 
 You’ll now land on the empty Quote class, but we are going to fill it with a bit of code now.
@@ -122,7 +122,7 @@ Just click OK to any popup boxes.
 
 What this class does is allows the app to create a Quote object that we can use, you ‘instantiate’ the class and pass through a quote and name (where it says public Quote(String mQuote, String mPerson)) and then you can retrieve the quote or person name later. More on this soon.
  
-# Instruction #8:
+#### Instruction #8:
 Click on the Quotebook class here: http://i.imgur.com/bG2d0VD.png
 Then copy and paste this code in between the onCreate(){ brackets but after all of the other code inside: http://pastebin.com/wz8gbWWA
 
@@ -130,7 +130,7 @@ You’ll notice some red squiggly lines telling you there is an error, so just u
 
 This is what the two sections should look like after the have been copied and pasted: http://pastebin.com/3FXi14XZ
  
-# Explanation time!
+### Explanation time!
  
     setContentView(R.layout.activity_quotebook);
  
@@ -190,7 +190,7 @@ If you read through the code and the English algorithm above a few times you sho
  
  
  
-# Instruction #9:
+#### Instruction #9:
 Find the two folders on the left hand side labelled ‘values’ and ‘values-v21’, they should both contain a file called styles.xml
 In the ‘values’ folder, change the parent= value to be:
 
@@ -202,7 +202,7 @@ In the ‘values-v21’ folder, change the parent= value to be:
  
 This just changes the App Theme, you could every try change to other themes.
  
-# Instruction #10:
+#### Instruction #10:
 To do this next step, you have to:
 - Ensure that you have your phones USB drivers properly installed.
  
@@ -214,14 +214,14 @@ Then, you have to click the [green play button](http://i.imgur.com/cOkY2Ep.png),
  
 If you have issues here, Google your phone + abd drivers/android studio.
  
-# Instruction #11:
+#### Instruction #11:
 
 Change the quotes around, try and add more! If you have a particular interest in an area change the quotes and make a targeted app like a movie quotes app that has all your favourite quotes or lines.
  
 Change the font, colours, formatting or use.
 Share your own versions in the comments!
  
-# If you enjoyed that, here are all the resources you need to dive deeper in to Android Development.
+### If you enjoyed that, here are all the resources you need to dive deeper in to Android Development.
  
 **Libraries**
  
