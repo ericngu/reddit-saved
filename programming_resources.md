@@ -88,7 +88,7 @@ My learning plan **actually worked.**
   
 *****
     
-###**What I learned**
+### **What I learned**
 
 It’s been an interesting year. I learned that the most important lesson is successfully balancing the three *main resources* every person has.
 
