@@ -21,20 +21,6 @@ Please email or [tweet](http://www.twitter.com/mattmight) with suggestions for a
 
 **Update**: Thanks for the suggestions and reminders! I'll incorporate them as I receive them to keep this a living document.
 
-<div class="module fat-container">
-
-<div class="fat-content">
-
-<center><script type="text/javascript"><!-- google_ad_client = "pub-4400645483943138"; /* Header ad unit */ google_ad_slot = "8276008011"; google_ad_width = 468; google_ad_height = 60; //--></script></center>
-
-</div>
-
-</div>
-
-<div id="content-container" class="module">
-
-<div id="article-content"><script type="text/javascript"><!-- // Might.enableSyntaxHighlighting("Scala") ; //--></script>
-
 ## Portfolio versus resume
 
 Having emerged from engineering and mathematics, computer science programs take a resume-based approach to hiring off their graduates.
