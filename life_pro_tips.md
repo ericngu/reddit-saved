@@ -89,7 +89,7 @@ EDIT: Here are some other extensions that I am a fan of:
 
 - Honey - Automatic coupon clipper. Use it when you're checking out. Works with a ton of online retailers.
 
-## 3 - [Another waybto write fast, well-constructed papers.(https://www.reddit.com/r/LifeProTips/comments/136zs4/lpt_another_way_to_write_fast_wellconstructed/)
+## 3 - [Another waybto write fast, well-constructed papers.](https://www.reddit.com/r/LifeProTips/comments/136zs4/lpt_another_way_to_write_fast_wellconstructed/)
 
 In college I had a professor that changed the way I wrote papers forever. After his class I became an English major and loved writing papers.
 
